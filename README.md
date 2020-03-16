@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 0000000
 
@@ -13,6 +14,9 @@
 git check pieey
 
 test
+=======
+# test
+>>>>>>> parent of 4b93e0b... s02
 01
 
 02
